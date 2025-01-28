@@ -1,5 +1,5 @@
 {
-    "name": "Digiatal Escape",
+    "name": "Digital Escape",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -17,7 +17,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.57",
+        "target": "1.12.58",
         "targetId": "arcade"
     },
     "supportedTargets": [
